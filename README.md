@@ -88,8 +88,8 @@ To enhance analysis, additional fields were introduced:
 
 ##  Project Contents
 
-* Power BI File (`.pbix`)
-* Dataset (`.csv`)
+* Power BI File (`retail_dashboard.pbix`)
+* Dataset (`retail_sales_data.csv`)
 * Dashboard visuals
 
 ---
